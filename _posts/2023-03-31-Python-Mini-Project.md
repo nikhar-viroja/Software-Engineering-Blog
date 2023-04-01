@@ -13,10 +13,8 @@ To address these challenges, we can define a function (in this case, calculate_a
 **SKILLS I LEARNED DURING THIS PROJECT**- Over the last few weeks i have learned various aspects and modules of python language. But while completing this project I came across the problem of calculating accuracy and speed which I solved after a lot of brainstorming with my teammate. The solution to calculate accuracy and speed is as follows
 
 ---
-
 accuracy = round((1 - errors / len(text)) * 100)
-
-
+---
+---
 speed = round(len(text) / elapsed_time * 60)
-
 ---
