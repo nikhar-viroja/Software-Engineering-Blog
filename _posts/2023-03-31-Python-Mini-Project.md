@@ -15,6 +15,8 @@ To address these challenges, we can define a function (in this case, calculate_a
 ---
 
 accuracy = round((1 - errors / len(text)) * 100)
+
+
 speed = round(len(text) / elapsed_time * 60)
 
 ---
